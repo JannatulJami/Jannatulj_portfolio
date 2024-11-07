@@ -1,3 +1,6 @@
 body {
   background-color: #FAE7EE;
 }
+.menu_item{
+  padding: (12, 100);
+}
