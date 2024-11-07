@@ -11,7 +11,7 @@ text-align: center;
   padding: 12px 150px;
   display: inline-block;
 }
-.menu{
+#menu{
   background-color: #EFD0E1;
 }
 a:hover{
