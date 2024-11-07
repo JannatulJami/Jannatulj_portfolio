@@ -1,6 +1,11 @@
 body {
   background-color: #FAE7EE;
 }
+#background {
+border: 10px solid;
+border-color: #FEDEEC;
+border-radius: 10px;
+}
 .menu_item{
   padding: 12px 100px;
   display: inline-block;
