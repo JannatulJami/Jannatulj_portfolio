@@ -3,4 +3,18 @@ body {
 }
 .menu_item{
   padding: 12px 100px;
+  display: inline-block;
+  background-color: #ECD7E4;
+  
+}
+a:hover{
+  color: rose-quartz;
+}
+
+a:visited { 
+color: #FF6BAC;
+}
+
+a:link{
+  color: #FC8AA7;
 }
