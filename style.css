@@ -7,8 +7,8 @@ border-color: #FEDEEC;
 border-radius: 10px;
 text-align: center;
 }
-.menu_item{
-  padding: 12px, 200px;
+.menu_item {
+  padding: 12px 250px;
   display: inline-block;
 }
 .menu-item:hover{
@@ -16,7 +16,7 @@ text-align: center;
   
 }
 #menu{
-  background-color: #EFD0E1;
+  background-color: #feedff;
 }
 a:hover{
   color: #;
