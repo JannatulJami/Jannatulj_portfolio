@@ -5,6 +5,7 @@ body {
 border: 10px solid;
 border-color: #FEDEEC;
 border-radius: 10px;
+text-align: center;
 }
 .menu_item{
   padding: 12px 100px;
