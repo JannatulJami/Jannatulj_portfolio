@@ -93,6 +93,8 @@ position: relative;
 #right{
   position: absolute;
   color: whitesmoke;
+  font-family: Courier, monospace;
+text-shadow: 1px 1px 2px pink;
   left: 30px;
   padding: 20px;
 position: absolute;
