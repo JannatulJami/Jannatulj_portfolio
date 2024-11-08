@@ -3,7 +3,13 @@ body {
 }
 #banner {
 border: 10px solid;
-border-color: #FEDEEC;
+border-color: #ffb8d7;
+border-radius: 10px;
+text-align: center;
+}
+#banner1 {
+border: 10px solid;
+border-color: #ffb8d7;
 border-radius: 10px;
 text-align: center;
 }
