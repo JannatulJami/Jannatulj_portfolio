@@ -87,7 +87,11 @@ a:hover{
   position: relative;
   border: 4px solid;
   border-image: linear-gradient(45deg, #ffb9dd, #ffe7f3, 30px) 60;
-
+  color: whitesmoke;
+  
+  overflow: scroll;
+  height: 250px;
+  width: 200px;
   }
 a:link{
   color: #ebd6e6;
