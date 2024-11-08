@@ -86,7 +86,7 @@ a:hover{
 #left{
   position: relative;
 }
-.box::before {
+#left::before {
   content: "";
   position: absolute;
   inset: 0;
