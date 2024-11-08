@@ -13,6 +13,12 @@ border-color: #e1c7e3;
 border-radius: 10px;
 text-align: center;
 }
+#banner2{
+border: 10px solid;
+border-color: #f1d7e8;
+border-radius: 10px;
+text-align: center;
+}
 .menu_item {
   padding: 12px 210px;
   display: inline-block;
