@@ -85,6 +85,8 @@ a:hover{
 }
 #left{
   position: relative;
+  width: 150px;
+  overflow: scroll;
 }
 #left::before {
   content: "";
