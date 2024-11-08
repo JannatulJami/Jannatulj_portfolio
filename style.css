@@ -124,6 +124,10 @@ position: absolute;
   overflow: scroll;
   width: 450px;
   }
+#left{
+right: 30px;
+position: absolute;
+}
 a:link{
   color: #ebd6e6;
 }
