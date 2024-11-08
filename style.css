@@ -83,17 +83,17 @@ border-radius: 7px;
 .left1{
 position: absolute;
 left: 10px; 
-margin: auto;
+border: 10px solid transparent;
 }
 .right1{
 position: absolute;
 right: 10px; 
-margin: auto;
+border: 10px solid transparent;
 }
-middle1{
+.middle1{
 position: absolute;
 left: 450px; 
-margin: auto;
+border: 10px solid transparent;
 }
 a:hover{
   color: #e5cdec;
