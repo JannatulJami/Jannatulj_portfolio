@@ -83,12 +83,13 @@ border-radius: 7px;
 a:hover{
   color: #e5cdec;
 }
-#left{
+#right{
   position: relative;
-  width: 150px;
+  width: 250px;
+  height: 200px;
   overflow: scroll;
 }
-#left::before {
+#right::before {
   content: "";
   position: absolute;
   inset: 0;
