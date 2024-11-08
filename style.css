@@ -121,8 +121,9 @@ text-shadow: 1px 1px 2px pink;
   left: 30px;
   padding: 20px;
 position: absolute;
-  overflow: scroll;
-  width: 450px;
+overflow: scroll;
+width: 450px;
+height: 490px;
   }
 #left{
 right: 30px;
