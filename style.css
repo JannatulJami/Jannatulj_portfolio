@@ -75,13 +75,11 @@ border-radius: 7px;
 
 }
 a:hover{
-  color: #;
+  color: #e5cdec;
 }
 
-a:visited { 
-color: #FF6BAC;
-}
+
 
 a:link{
-  color: #FC8AA7;
+  color: #ebd6e6;
 }
