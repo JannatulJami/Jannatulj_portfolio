@@ -88,6 +88,8 @@ a:hover{
   color: whitesmoke;
   border: 10px solid;
   left: 14px;
+  padding: 20px;
+position: absolute;
 border-color: #ffd2e8;
   overflow: scroll;
   height: 250px;
