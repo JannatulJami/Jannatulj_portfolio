@@ -25,7 +25,7 @@ left: 10px;
 margin: auto;
 padding: 15px;
 width: 275px;
-height: 200px;
+height: 230px;
 border: 15px solid transparent;
 border-top: 10px solid transparent;
 border-image: linear-gradient(to bottom, transparent, #FBCDEA) 3 100%;
@@ -41,11 +41,38 @@ border-radius: 7px;
 position: absolute;
 border: 10px solid transparent;
 right: 10px; 
+margin: auto;
+padding: 15px;
+width: 275px;
+height: 230px;
+border: 15px solid transparent;
+border-top: 10px solid transparent;
+border-image: linear-gradient(to bottom, transparent, #FBCDEA) 3 100%;
+box-shadow: 0 15px 0 0 #FBCDEA, 0 -5px 0 0 #F7FCFF,  inset 0px 15px 0 0 #FBCDEA;
+background-image:  linear-gradient(#FBCDEA, transparent), linear-gradient(#FBCDEA, transparent);
+background-size: 15px 100%;
+background-position: 0 0, 100% 0;
+background-repeat: no-repeat;
+border-radius: 7px;
 }
 .middle{
 position: absolute;
 border: 10px solid transparent;
-right: 395px;
+right: 425px;
+margin: auto;
+padding: 15px;
+width: 275px;
+height: 230px;
+border: 15px solid transparent;
+border-top: 10px solid transparent;
+border-image: linear-gradient(to bottom, transparent, #FBCDEA) 3 100%;
+box-shadow: 0 15px 0 0 #FBCDEA, 0 -5px 0 0 #F7FCFF,  inset 0px 15px 0 0 #FBCDEA;
+background-image:  linear-gradient(#FBCDEA, transparent), linear-gradient(#FBCDEA, transparent);
+background-size: 15px 100%;
+background-position: 0 0, 100% 0;
+background-repeat: no-repeat;
+border-radius: 7px;
+
 }
 a:hover{
   color: #;
